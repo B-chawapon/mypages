@@ -1,4 +1,51 @@
 .myname {
-    color: black;
+    color: white;
     font-family: 'Courier New', monospace;
+    margin-left: 25%;
+    margin-top: 40px;
+    height: 50px;
+    display: inline-block;
+}
+
+.bloginfo {
+    margin-top: 30px;
+    /* border-style: solid;
+    border-color: red; */
+}
+
+.txtinfo {
+    padding-top: 10px;
+    /* margin-left: 53%; */
+    padding-left: 52%;
+    display: block;
+    /* border-style: solid;
+    border-color: purple; */
+    font-family: 'Courier New', monospace;
+    font-size: 20px;
+    color: white;
+}
+
+.imgcat {
+    float: left;
+    margin-left: 25%;
+    margin-right: auto;
+    height: 300px;
+    border-radius: 30px;
+    /* border-style: solid;
+    border-color: green; */
+}
+
+.center {
+    padding-top: 100px;
+    height: 10vh;
+    font-family: 'Courier New', monospace;
+    /* border-style: solid;
+    border-color: green; */
+    padding-left: 50vw;
+    color: white;
+}
+
+.linkdonut {
+    display: inline-block;
+    text-align: right;
 }
