@@ -5,6 +5,8 @@
     margin-top: 40px;
     height: 50px;
     display: inline-block;
+    font-size: 35px;
+    text-decoration: none;
 }
 
 .bloginfo {
@@ -48,4 +50,5 @@
 .linkdonut {
     display: inline-block;
     text-align: right;
+    text-decoration: none;
 }
